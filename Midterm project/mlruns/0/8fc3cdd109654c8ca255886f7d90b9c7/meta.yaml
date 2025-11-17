@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/8fc3cdd109654c8ca255886f7d90b9c7/artifacts
+end_time: 1763320854501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fc3cdd109654c8ca255886f7d90b9c7
+run_name: aged-gull-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763320402502
+status: 3
+tags: []
+user_id: lowkey

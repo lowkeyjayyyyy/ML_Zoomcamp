@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/3832d2b8da044ecda3a12598158c793e/artifacts
+end_time: 1763352342409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3832d2b8da044ecda3a12598158c793e
+run_name: bright-fox-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763350647252
+status: 4
+tags: []
+user_id: lowkey

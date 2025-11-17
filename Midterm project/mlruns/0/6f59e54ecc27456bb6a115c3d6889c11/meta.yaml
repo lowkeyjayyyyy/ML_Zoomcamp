@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/6f59e54ecc27456bb6a115c3d6889c11/artifacts
+end_time: 1763284572240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f59e54ecc27456bb6a115c3d6889c11
+run_name: marvelous-cub-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763284435695
+status: 3
+tags: []
+user_id: lowkey

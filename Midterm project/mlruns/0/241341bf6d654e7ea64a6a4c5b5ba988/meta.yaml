@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/241341bf6d654e7ea64a6a4c5b5ba988/artifacts
+end_time: 1763315884457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 241341bf6d654e7ea64a6a4c5b5ba988
+run_name: nimble-ray-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763315549201
+status: 3
+tags: []
+user_id: lowkey

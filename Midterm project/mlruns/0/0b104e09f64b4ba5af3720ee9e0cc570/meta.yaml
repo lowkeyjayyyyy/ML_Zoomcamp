@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/0b104e09f64b4ba5af3720ee9e0cc570/artifacts
+end_time: 1763322980892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b104e09f64b4ba5af3720ee9e0cc570
+run_name: bedecked-doe-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763322574574
+status: 3
+tags: []
+user_id: lowkey

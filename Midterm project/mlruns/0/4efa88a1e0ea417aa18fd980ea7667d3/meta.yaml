@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/4efa88a1e0ea417aa18fd980ea7667d3/artifacts
+end_time: 1763349058116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4efa88a1e0ea417aa18fd980ea7667d3
+run_name: illustrious-ox-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763348817719
+status: 3
+tags: []
+user_id: lowkey

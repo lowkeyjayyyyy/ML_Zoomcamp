@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/8223b55a230a4b1c9216532dd787af37/artifacts
+end_time: 1763315358566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8223b55a230a4b1c9216532dd787af37
+run_name: useful-sow-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763315170004
+status: 3
+tags: []
+user_id: lowkey

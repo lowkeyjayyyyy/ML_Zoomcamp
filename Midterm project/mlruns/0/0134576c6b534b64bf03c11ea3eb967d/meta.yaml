@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/0134576c6b534b64bf03c11ea3eb967d/artifacts
+end_time: 1763350583161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0134576c6b534b64bf03c11ea3eb967d
+run_name: overjoyed-moose-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763350030456
+status: 4
+tags: []
+user_id: lowkey

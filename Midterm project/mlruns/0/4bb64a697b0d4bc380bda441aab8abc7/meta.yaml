@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/4bb64a697b0d4bc380bda441aab8abc7/artifacts
+end_time: 1763315549197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bb64a697b0d4bc380bda441aab8abc7
+run_name: colorful-donkey-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763315358571
+status: 3
+tags: []
+user_id: lowkey

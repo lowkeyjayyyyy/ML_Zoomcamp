@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/34941b166ee243b2bb66aefe88ddad6f/artifacts
+end_time: 1763317688374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34941b166ee243b2bb66aefe88ddad6f
+run_name: learned-fly-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763317234991
+status: 3
+tags: []
+user_id: lowkey

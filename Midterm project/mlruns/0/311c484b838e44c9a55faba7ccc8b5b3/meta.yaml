@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/311c484b838e44c9a55faba7ccc8b5b3/artifacts
+end_time: 1763315169998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 311c484b838e44c9a55faba7ccc8b5b3
+run_name: calm-rat-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763315072388
+status: 3
+tags: []
+user_id: lowkey

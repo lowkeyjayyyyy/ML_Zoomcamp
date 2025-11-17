@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/7d034a6a4c574dc28579e06fb33c02f7/artifacts
+end_time: 1763318674210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d034a6a4c574dc28579e06fb33c02f7
+run_name: colorful-midge-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763318168664
+status: 3
+tags: []
+user_id: lowkey

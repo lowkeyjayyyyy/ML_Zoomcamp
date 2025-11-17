@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/1acff992d6bc46c4b929bb24144b5077/artifacts
+end_time: 1763320153344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1acff992d6bc46c4b929bb24144b5077
+run_name: colorful-mule-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763319740593
+status: 3
+tags: []
+user_id: lowkey

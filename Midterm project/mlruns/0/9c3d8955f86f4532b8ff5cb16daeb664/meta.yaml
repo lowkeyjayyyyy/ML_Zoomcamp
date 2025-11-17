@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/9c3d8955f86f4532b8ff5cb16daeb664/artifacts
+end_time: 1763318168642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c3d8955f86f4532b8ff5cb16daeb664
+run_name: marvelous-worm-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763317688388
+status: 3
+tags: []
+user_id: lowkey

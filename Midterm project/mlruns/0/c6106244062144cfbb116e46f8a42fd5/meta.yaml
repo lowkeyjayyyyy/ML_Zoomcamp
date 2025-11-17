@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/c6106244062144cfbb116e46f8a42fd5/artifacts
+end_time: 1763317234978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6106244062144cfbb116e46f8a42fd5
+run_name: funny-trout-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763317179594
+status: 3
+tags: []
+user_id: lowkey

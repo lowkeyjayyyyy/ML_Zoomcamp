@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/b70fc541576345649a0b000be8062241/artifacts
+end_time: 1763317079822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b70fc541576345649a0b000be8062241
+run_name: worried-worm-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763317013596
+status: 3
+tags: []
+user_id: lowkey

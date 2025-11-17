@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/2ba9fa03c85c4394a6f55ae96e311d42/artifacts
+end_time: 1763319312505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ba9fa03c85c4394a6f55ae96e311d42
+run_name: incongruous-cod-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763319122754
+status: 3
+tags: []
+user_id: lowkey

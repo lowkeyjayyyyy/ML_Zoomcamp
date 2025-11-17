@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/1eec8cf097ed4ec98b0c5a48e7f4858f/artifacts
+end_time: 1763320402486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eec8cf097ed4ec98b0c5a48e7f4858f
+run_name: sassy-tern-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763320153358
+status: 3
+tags: []
+user_id: lowkey

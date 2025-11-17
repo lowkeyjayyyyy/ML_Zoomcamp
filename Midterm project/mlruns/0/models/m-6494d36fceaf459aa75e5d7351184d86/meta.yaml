@@ -1,0 +1,10 @@
+artifact_location: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/models/m-6494d36fceaf459aa75e5d7351184d86/artifacts
+creation_timestamp: 1763320149934
+experiment_id: '0'
+last_updated_timestamp: 1763320153328
+model_id: m-6494d36fceaf459aa75e5d7351184d86
+model_type: null
+name: RandomForestClassifier_optuna
+source_run_id: 1acff992d6bc46c4b929bb24144b5077
+status: 2
+status_message: null

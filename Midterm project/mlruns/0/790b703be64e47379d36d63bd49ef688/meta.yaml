@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lowkey/project/ML_Zoomcamp/Midterm%20project/mlruns/0/790b703be64e47379d36d63bd49ef688/artifacts
+end_time: 1763285361063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 790b703be64e47379d36d63bd49ef688
+run_name: omniscient-ant-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763285221416
+status: 3
+tags: []
+user_id: lowkey
