@@ -1,0 +1,2 @@
+Midterm[[:space:]]project/credit_fraud/src/model_rf.bin filter=lfs diff=lfs merge=lfs -text
+Midterm[[:space:]]project/creditcard.csv filter=lfs diff=lfs merge=lfs -text
