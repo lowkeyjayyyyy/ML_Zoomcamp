@@ -1,0 +1,7 @@
+# to build docker
+# find Dockerfile in current directory
+docker build -t <container-name> . 
+
+# run docker container
+docker run -it --rm -p port:port <container-name>
+

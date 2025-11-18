@@ -1,0 +1,19 @@
+# uv virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / ML run folders
+.ipynb_checkpoints/
+mlruns/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.dockerignore
