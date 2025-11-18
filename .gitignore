@@ -9,6 +9,8 @@ __pycache__/
 
 # Jupyter / ML run folders
 .ipynb_checkpoints/
+*.bin
+*.csv
 mlruns/
 
 # OS files
